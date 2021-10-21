@@ -11,8 +11,8 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <style>
     .wrapper {
-        width: 600px;
-        margin: 0 auto;
+        width: 100%;
+        margin-left: -50px;
     }
 
     table tr td:last-child {
